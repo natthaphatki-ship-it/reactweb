@@ -9,10 +9,11 @@ export default {
       colors:{
         primaryTitle:'#9BC264',
         primaryContent:'#000000',
-        primarySubContent:'#E7EACB5',
-        primaryBase: '#EDDCC6',
-        primaryAccent: '#30364F',
+        primarySubContent:'#23e7d7',
+        primaryBase: '#08ee96',
+        primaryAccent: '#ff0000',
         primaryBg: '#fcfcfc',
+        PrimaryBase2: '#76f18a',
         
       }
     },

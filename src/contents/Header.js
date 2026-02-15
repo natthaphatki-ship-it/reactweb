@@ -1,4 +1,4 @@
-import fileName from '../../assets/cv.pdf'
+import fileName from '../assets/cv.pdf'
 export const data = {
     "name": 'Natthaphat Keattiwaraphorn',
     "title": 'Software Developer · between jobs',
